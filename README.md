@@ -66,12 +66,12 @@
   </ul>
 
   <figure style="float: left; margin: 10px; width: 300px;">
-    <img src="C:\Users\dell\Downloads\people-caring-for-the-environment-on-earth-day-free-vector.jpg" style="width: 100%; border-radius: 10px;" alt="Planeta sano">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvU1BjVUxPRLRko2-yP7-8NgkCFGDfS0dmDRT03KFsWg&s="style="width: 100%; border-radius: 10px;" alt="Planeta sano">
     <figcaption style="text-align: center;">Por un planeta con más vida.</figcaption>
   </figure>
 
   <figure style="float: right; margin: 10px; width: 300px;">
-    <img src="C:\Users\dell\Downloads\a-tree-with-leaves-of-the-world-map-concept-environment-save-the-world-photo.jpg" style="width: 100%; border-radius: 10px;" alt="Planeta verde">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYEZ1ydkxcR3PRM0tjZKzxWSuMooCI-z1Jzg&s=" style="width: 100%; border-radius: 10px;" alt="Planeta verde">
     <figcaption style="text-align: center;">Hagamos del planeta un lugar más verde.</figcaption>
   </figure>
 
@@ -126,43 +126,43 @@
         <td>Rediseñar</td>
         <td>Cambiar el diseño para ser sostenible.</td>
         <td>Elegir productos duraderos, locales o biodegradables.</td>
-        <td><img src="C:\Users\dell\Downloads\marco-productos-ecologicos.webp" width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsNingnnfbb1PfPP9e4DEnkgoW0-JwKLMTSw&s=" width="100"></td>
       </tr>
       <tr>
         <td>Reducir</td>
         <td>Consumir menos y mejor.</td>
         <td>Planificar compras y evitar desperdicios.</td>
-        <td><img src="C:\Users\dell\Downloads\reducir.jpeg" width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4-OEo1kSiG9KiFemQCiUPCz1IP1JeNTrbAQ&s=" width="100"></td>
       </tr>
       <tr>
         <td>Reutilizar</td>
         <td>Volver a usar sin desechar.</td>
         <td>Reutilizar frascos, bolsas y cajas.</td>
-        <td><img src="C:\Users\dell\Downloads\images (2).jpeg" width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSelEBQPuDWDW8S4r5AqE6AVTnh1gpiGV3-cw&s=" (2).jpeg" width="100"></td>
       </tr>
       <tr>
         <td>Reciclar</td>
         <td>Separar y transformar materiales.</td>
         <td>Clasificar residuos y llevarlos al punto limpio.</td>
-        <td><img src="C:\Users\dell\Downloads\rrrr.jpg" width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZpD6gM_u572jKaJ1sjEo8xtbEVIkSTyq9sg&s=x width="100"></td>
       </tr>
       <tr>
         <td>Reparar</td>
         <td>Arreglar lo que se rompe.</td>
         <td>Buscar talleres o tutoriales.</td>
-        <td><img src="C:\Users\dell\Downloads\tallerrr.jpg" width="100"></td>
+        <td><img src="https://cdn.infodiagram.com/c/ea5da9/7-rs-model-principles-of-the-circular-economy.webp" width="100"></td>
       </tr>
       <tr>
         <td>Recuperar</td>
         <td>Extraer valor de residuos.</td>
         <td>Hacer composta, reciclar electrónica.</td>
-        <td><img src="C:\Users\dell\Downloads\recuperar07.jpg" width="100"></td>
+        <td><img src="https://katrinbj.com/wp-content/uploads/Practice-The-7R-of-Sustainability.webp" width="100"></td>
       </tr>
       <tr>
         <td>Rechazar</td>
         <td>No consumir productos dañinos.</td>
         <td>Evitar plásticos de un solo uso o tóxicos.</td>
-        <td><img src="C:\Users\dell\Downloads\07 Cajita Productos tóxicos.jpg" width="100"></td>
+        <td><img src="https://i.pinimg.com/originals/79/17/18/791718809484137615.jpgx Cajita Productos tóxicos.jpg" width="100"></td>
       </tr>
     </table>
   </center>
