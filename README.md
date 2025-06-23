@@ -138,13 +138,13 @@
         <td>Reutilizar</td>
         <td>Volver a usar sin desechar.</td>
         <td>Reutilizar frascos, bolsas y cajas.</td>
-        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSelEBQPuDWDW8S4r5AqE6AVTnh1gpiGV3-cw&s=" (2).jpeg" width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSelEBQPuDWDW8S4r5AqE6AVTnh1gpiGV3-cw&s=" width="100"></td>
       </tr>
       <tr>
         <td>Reciclar</td>
         <td>Separar y transformar materiales.</td>
         <td>Clasificar residuos y llevarlos al punto limpio.</td>
-        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZpD6gM_u572jKaJ1sjEo8xtbEVIkSTyq9sg&s=x width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZpD6gM_u572jKaJ1sjEo8xtbEVIkSTyq9sg&s=x" width="100"></td>
       </tr>
       <tr>
         <td>Reparar</td>
