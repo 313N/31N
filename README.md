@@ -150,19 +150,19 @@
         <td>Reparar</td>
         <td>Arreglar lo que se rompe.</td>
         <td>Buscar talleres o tutoriales.</td>
-        <td><img src="https://cdn.infodiagram.com/c/ea5da9/7-rs-model-principles-of-the-circular-economy.webp" width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3BoBnm8Q0D8ZSLrWIJqiQTnym4nyPO7Wby93OgE9t7e2oFHRJvJZgqEgQ&s=10" width="100"></td>
       </tr>
       <tr>
         <td>Recuperar</td>
         <td>Extraer valor de residuos.</td>
         <td>Hacer composta, reciclar electrónica.</td>
-        <td><img src="https://katrinbj.com/wp-content/uploads/Practice-The-7R-of-Sustainability.webp" width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmXW2TAu6B_GsLGOu6oz8C6JpgmhkB6GzD9BgtGnU3dyOkkdU9_zdlxkou&s=10" width="100"></td>
       </tr>
       <tr>
         <td>Rechazar</td>
         <td>No consumir productos dañinos.</td>
         <td>Evitar plásticos de un solo uso o tóxicos.</td>
-        <td><img src="https://i.pinimg.com/originals/79/17/18/791718809484137615.jpgx Cajita Productos tóxicos.jpg" width="100"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiupQZCuV78LWdfzInno9HuVJLttfLDWwjibcjCRhnOFX-1BOkDjdEQ7o-&s=10" width="100"></td>
       </tr>
     </table>
   </center>
