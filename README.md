@@ -47,7 +47,7 @@
 
   <div align="center">
     <figure>
-      <img src="C:\Users\dell\Downloads\reciclaje_nature-3294632_1280.jpg" width="500" height="300" alt="Imagen de sostenibilidad.">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQO0fcD_MtURNIJ_LWm1FHd_N2qpNLG1AjCA&s=" width="500" height="300" alt="Imagen de sostenibilidad.">
       <figcaption>El auge de la sostenibilidad y el aumento de la preocupación por el daño al medioambiente han impulsado más acciones para cuidarlo.</figcaption>
     </figure>
   </div>
