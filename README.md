@@ -171,7 +171,7 @@
   <p style="text-align: center;">Mira el siguiente video y aprende cómo cuidar el planeta:</p>
   <div style="text-align: center;">
     <video width="480" controls>
-      <source src="C:\Users\dell\Desktop\Downloads\Cuida el planeta haciendo uso de las 7R (1).mp4" type="video/mp4">
+      <source src="https://youtu.be/YGMeO5L_LAs?si=iORAYpvyiqqhIz5K" type="video/mp4">
       Tu navegador no soporta video.
     </video>
   </div>
