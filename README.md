@@ -170,9 +170,11 @@
   <h2 style="text-align: center;">Cuida el planeta haciendo uso de las 7 R´s</h2>
   <p style="text-align: center;">Mira el siguiente video y aprende cómo cuidar el planeta:</p>
 
-<div style="text-align: center;">
+<div style="text-align: center; border: 2px solid #ccc; padding: 10px; width: 480px; margin: auto;">
   <a href="https://www.youtube.com/watch?v=YGMeO5L_LAs" target="_blank">
-    ▶️ Mira el video sobre las 7 R’s en YouTube
+    <img src="https://img.youtube.com/vi/YGMeO5L_LAs/hqdefault.jpg" 
+         alt="Miniatura del video" width="100%">
+    <p style="font-weight: bold; margin-top: 10px;">▶️ Ver video: Cuida el planeta con las 7 R’s</p>
   </a>
 </div>
 
