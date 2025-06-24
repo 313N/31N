@@ -171,14 +171,11 @@
   <p style="text-align: center;">Mira el siguiente video y aprende cómo cuidar el planeta:</p>
 
 <div style="text-align: center;">
-  <iframe width="480" height="270"
-    src="https://www.youtube.com/embed/YGMeO5L_LAs"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+  <a href="https://www.youtube.com/watch?v=YGMeO5L_LAs" target="_blank">
+    ▶️ Mira el video sobre las 7 R’s en YouTube
+  </a>
 </div>
+
   <h2 style="text-align: center; color: green;">¿Sabías que?</h2>
   <ul>
     <li>Si toda la población viviera como en los países más consumistas, necesitaríamos 3 planetas.</li>
