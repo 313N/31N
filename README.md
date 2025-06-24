@@ -66,7 +66,7 @@
   </ul>
 
   <figure style="float: left; margin: 10px; width: 300px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvU1BjVUxPRLRko2-yP7-8NgkCFGDfS0dmDRT03KFsWg&s="style="width: 100%; border-radius: 10px;" alt="Planeta sano">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvU1BjVUxPRLRko2-yP7-8NgkCFGDfS0dmDRT03KFsWg&s=" style="width: 100%; border-radius: 10px;" alt="Planeta sano">
     <figcaption style="text-align: center;">Por un planeta con más vida.</figcaption>
   </figure>
 
@@ -170,13 +170,13 @@
   <h2 style="text-align: center;">Cuida el planeta haciendo uso de las 7 R´s</h2>
   <p style="text-align: center;">Mira el siguiente video y aprende cómo cuidar el planeta:</p>
 
-<div style="text-align: center; border: 2px solid #ccc; padding: 10px; width: 480px; margin: auto;">
-  <a href="https://www.youtube.com/watch?v=YGMeO5L_LAs" target="_blank">
-    <img src="https://img.youtube.com/vi/YGMeO5L_LAs/hqdefault.jpg" 
-         alt="Miniatura del video" width="100%">
-    <p style="font-weight: bold; margin-top: 10px;">▶️ Ver video: Cuida el planeta con las 7 R’s</p>
-  </a>
-</div>
+  <div style="text-align: center; border: 2px solid #ccc; padding: 10px; width: 480px; margin: auto;">
+    <a href="https://www.youtube.com/watch?v=YGMeO5L_LAs" target="_blank">
+      <img src="https://img.youtube.com/vi/YGMeO5L_LAs/hqdefault.jpg" 
+           alt="Miniatura del video" width="100%">
+      <p style="font-weight: bold; margin-top: 10px;">▶️ Ver video: Cuida el planeta con las 7 R’s</p>
+    </a>
+  </div>
 
   <h2 style="text-align: center; color: green;">¿Sabías que?</h2>
   <ul>
@@ -199,6 +199,14 @@
       <source src="C:\Users\dell\Desktop\Downloads\videoplayback.m4a" type="audio/mpeg">
       Tu navegador no soporta audio.
     </audio>
+  </div>
+
+  <!-- ✅ Botón agregado aquí -->
+  <div style="text-align: center; margin-top: 30px;">
+    <a href="https://313n.github.io/312N/" target="_blank" 
+       style="display: inline-block; padding: 12px 24px; background-color: #4CAF50; color: white; font-size: 18px; border-radius: 8px; text-decoration: none; font-family: Arial;">
+      🌱 Ir al sitio de las 7 R’s
+    </a>
   </div>
 
 </body>
