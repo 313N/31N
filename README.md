@@ -185,7 +185,7 @@
 
   <div style="text-align: center;">
     <figure>
-      <img src="C:\Users\dell\Desktop\Downloads\IMG_7559.jpg" width="400" height="500" alt="Cartel sobre el cuidado del agua.">
+      <img src="IMG-20250623-WA0001.jpg" width="400" height="500" alt="Cartel sobre el cuidado del agua.">
       <figcaption>Implementa acciones para cuidar al medio ambiente.</figcaption>
     </figure>
   </div>
